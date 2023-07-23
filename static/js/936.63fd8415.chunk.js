@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_homework_template=self.webpackChunkreact_homework_template||[]).push([[936],{4936:function(e,t,n){n.r(t),n.d(t,{default:function(){return o}});var r="Home_container__w+u63",c=n(184),o=function(){return(0,c.jsx)("div",{className:r,children:(0,c.jsx)("h1",{children:"Welcome to a Phpnebook!"})})}}}]);
+//# sourceMappingURL=936.63fd8415.chunk.js.map
